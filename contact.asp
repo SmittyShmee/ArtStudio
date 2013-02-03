@@ -244,11 +244,9 @@ document.write(a+'@'+b+'<\/a>');
 				  </td></tr>
 				</table>				
 				<p align="center"><SCRIPT LANGUAGE="JavaScript">
-<!-- Original: Kenneth Preston <drkennan@ionet.net> -->
-<!-- This script and many more are available free online at -->
-<!-- The JavaScript Source!! http://javascript.internet.com -->
+// Original: Kenneth Preston <drkennan@ionet.net> -->
 
-<!-- Begin
+// <!-- Begin
 var m = "Page updated " + document.lastModified;
 var p = m.length-8;
 document.write(m.substring(p, 0));
@@ -257,17 +255,19 @@ document.write('Copyright &copy; 2005');
 if ((new Date()).getFullYear() > 2005) document.write('-' + (new Date()).getFullYear());
 document.write('.');
 // End -->
-</script> Gerald Steadman Smith.  All rights reserved.<br>
-				Content on this website is not to be reproduced without prior permission.</p>
+</script>
+    Gerald Steadman Smith.  All rights reserved.<br>
+    Content on this website is not to be reproduced without prior permission.
+    <br/>
+    <p id="hostedBy">
+        Maintained by <a href="http://www.steven-smith.net/" target="_blank">Steve Smith</a>
+    </p>
 			</td>
   			</tr>
 		</table>
 	</td>
   </tr>
-</table><br>
-
-<p align="center">Designed by Dundass Web Studio</p>
-<p align="center"><a href="http://www.dundasswebstudio.com" target="_blank"><img src="images/dwslogo_88x33.gif" width="88" height="33" border="0"></a></p>
+</table>
 </div>
 </body>
 </html>

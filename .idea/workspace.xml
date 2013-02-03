@@ -4,8 +4,13 @@
     <list default="true" id="fdd6ca44-7648-482d-97da-65307399383f" name="Default" comment="" />
     <ignored path="ArtStudio.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359600769282" ignored="false" />
+    <file path="/index.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359929785853" ignored="false" />
     <file path="/gsas_styles.css" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359599044581" ignored="false" />
+    <file path="/gallery.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359928119894" ignored="false" />
+    <file path="/about_the_artist.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359929059604" ignored="false" />
+    <file path="/a.dummy" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359929699111" ignored="false" />
+    <file path="/gallery-abstracts.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359929713678" ignored="false" />
+    <file path="/gallery-large_paintings_of_heads.html" changelist="fdd6ca44-7648-482d-97da-65307399383f" time="1359929733263" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="contact.asp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.asp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="168" column="7" selection-start="10315" selection-end="10315" vertical-scroll-proportion="0.8003328">
+            <state line="248" column="3" selection-start="10367" selection-end="10367" vertical-scroll-proportion="0.15789473">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gsas_styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gsas_styles.css">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="26" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
+            <state line="94" column="40" selection-start="5544" selection-end="5544" vertical-scroll-proportion="-5.5833335">
               <folding />
             </state>
           </provider>
@@ -92,8 +97,19 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gsas_styles.css" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/about_the_artist.html" />
+        <option value="$PROJECT_DIR$/latest_work1.html" />
+        <option value="$PROJECT_DIR$/latest_work2.html" />
+        <option value="$PROJECT_DIR$/latest_work3.html" />
+        <option value="$PROJECT_DIR$/gallery-large_paintings_of_heads.html" />
+        <option value="$PROJECT_DIR$/gallery-abstracts.html" />
+        <option value="$PROJECT_DIR$/gallery-people_in_art_galleries.html" />
+        <option value="$PROJECT_DIR$/gallery-seascapes.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/upload/gallery-large_paintings_of_heads.html" />
+        <option value="$PROJECT_DIR$/contact.asp" />
       </list>
     </option>
   </component>
@@ -253,16 +269,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298193" sideWeight="0.49713057" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298193" sideWeight="0.4978479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -271,11 +288,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18364419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18364419" sideWeight="0.67018074" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -336,13 +352,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="28" selection-start="9990" selection-end="9990" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gsas_styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="26" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
@@ -371,9 +380,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="169" column="24" selection-start="8171" selection-end="8531" vertical-scroll-proportion="-12.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_the_artist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="52" selection-start="13402" selection-end="13402" vertical-scroll-proportion="-0.43515357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-large_paintings_of_heads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="211" selection-start="4558" selection-end="4567" vertical-scroll-proportion="-5.2916665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-abstracts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="211" selection-start="4211" selection-end="4211" vertical-scroll-proportion="-4.9583335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-people_in_art_galleries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="24" selection-start="618" selection-end="618" vertical-scroll-proportion="-4.9583335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-seascapes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="22" selection-start="4229" selection-end="4229" vertical-scroll-proportion="-5.2916665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="7" selection-start="10315" selection-end="10315" vertical-scroll-proportion="0.8003328">
+        <state line="94" column="40" selection-start="5544" selection-end="5544" vertical-scroll-proportion="-5.5833335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/gallery-large_paintings_of_heads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="211" selection-start="4567" selection-end="4567" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latest_work3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="20" selection-start="1995" selection-end="2266" vertical-scroll-proportion="0.51891893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latest_work2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="20" selection-start="1998" selection-end="2269" vertical-scroll-proportion="0.51891893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latest_work1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="20" selection-start="1925" selection-end="2265" vertical-scroll-proportion="0.43783784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.asp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="3" selection-start="10367" selection-end="10367" vertical-scroll-proportion="0.15789473">
           <folding />
         </state>
       </provider>
