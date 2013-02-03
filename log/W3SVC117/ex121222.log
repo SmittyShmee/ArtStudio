@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2012-12-22 01:15:36
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status sc-bytes cs-bytes cs(User-Agent) cs(Cookie) cs(Referer) 
+2012-12-22 01:15:36 124.115.0.166 - 208.123.213.128 80 GET /index.html - 200 8386 251 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - -
+2012-12-22 01:27:32 173.199.116.211 - 208.123.213.128 80 GET /index.html - 200 8324 189 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2012-12-22 02:30:49 124.115.6.14 - 208.123.213.128 80 GET /robots.txt - 404 4203 261 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - -
+2012-12-22 02:51:09 5.9.36.119 - 208.123.213.128 80 GET /robots.txt - 404 4203 193 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:09 5.9.36.119 - 208.123.213.128 80 GET /index.html - 200 8390 171 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:10 5.9.36.119 - 208.123.213.128 80 GET /index.html - 200 8324 181 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:10 5.9.36.119 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 192 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:12 5.9.36.119 - 208.123.213.128 80 GET /contact.asp - 200 8899 182 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:12 5.9.36.119 - 208.123.213.128 80 GET /gallery.html - 200 5306 183 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:13 5.9.36.119 - 208.123.213.128 80 GET /gallery-abstracts.html - 200 9452 193 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:13 5.9.36.119 - 208.123.213.128 80 GET /gallery-large_paintings_of_heads.html - 200 10507 208 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:14 5.9.36.119 - 208.123.213.128 80 GET /gallery-seascapes.html - 200 10339 193 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 02:51:14 5.9.36.119 - 208.123.213.128 80 GET /gallery-people_in_art_galleries.html - 200 9696 207 Mozilla/5.0+(compatible;+SISTRIX+Crawler;+http://crawler.sistrix.net/) - -
+2012-12-22 04:24:14 173.199.116.211 - 208.123.213.128 80 GET /gallery-seascapes.html - 200 10339 201 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2012-12-22 04:36:01 123.151.148.181 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2012-12-22 05:57:34 123.125.71.91 - 208.123.213.128 80 GET /robots.txt - 404 4203 196 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - -
+2012-12-22 06:24:10 157.55.32.86 - 208.123.213.128 80 GET /robots.txt - 404 4203 276 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 06:26:12 157.55.32.86 - 208.123.213.128 80 GET /contact.asp - 200 8899 290 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 06:28:11 157.55.33.77 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 300 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 08:52:25 157.55.35.98 - 208.123.213.128 80 GET /robots.txt - 404 4203 280 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 08:54:17 157.55.35.98 - 208.123.213.128 80 GET /gallery-seascapes.html - 200 10339 305 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 09:09:11 157.55.33.77 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 304 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 09:27:11 157.55.32.185 - 208.123.213.128 80 GET /gallery-large_paintings_of_heads.html - 200 10507 320 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - -
+2012-12-22 10:28:51 173.199.116.211 - 208.123.213.128 80 GET /gallery-abstracts.html - 200 9452 201 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2012-12-22 10:34:51 124.115.0.170 - 208.123.213.128 80 GET /index.html - 200 8386 251 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - -
+2012-12-22 10:41:02 180.76.5.154 - 208.123.213.128 80 GET /robots.txt - 404 4203 196 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - -
+2012-12-22 12:24:17 131.253.40.172 - 208.123.213.128 80 GET /robots.txt - 404 4203 225 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2012-12-22 12:24:17 131.253.40.172 - 208.123.213.128 80 GET /images/enlarge_susan_lewis.gif - 200 3988 422 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2012-12-22 13:16:01 173.45.104.226 - 208.123.213.128 80 GET /index.html - 200 8390 178 Mozilla/5.0+(Windows+NT+6.1;+rv:16.0)+Gecko/20100101+Firefox/16.0 - -
+2012-12-22 13:19:48 123.151.148.205 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2012-12-22 14:41:18 199.21.99.120 - 208.123.213.128 80 GET /robots.txt - 404 4203 198 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - -
+2012-12-22 17:07:04 220.181.108.154 - 208.123.213.128 80 GET /index.html - 304 245 320 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - -
+2012-12-22 17:41:02 199.21.99.120 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 297 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - -
+2012-12-22 18:13:40 180.76.5.100 - 208.123.213.128 80 GET /index.html - 304 245 314 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - -
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /index.html - 200 8390 586 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.google.com/url?sa=t&rct=j&q=wood%20carver%20gerald%20smith&source=web&cd=3&ved=0CD8QFjAC&url=http%3A%2F%2Fwww.geraldsmithartstudio.com%2F&ei=l_jVUMX6COeK2QWf7IG4CA&usg=AFQjCNEIv5Yf-W5xbb3QQ90z8EL5oIDo6A&bvm=bv.1355534169,d.b2I
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /gsas_styles.css - 200 2148 355 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/bullet_on.gif - 200 329 345 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/bullet_off.gif - 200 321 346 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/text_artists_statement.gif - 200 6161 358 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/text_latest_works.gif - 200 5556 353 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/template_heading_r1_c1.gif - 200 35992 358 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/enlarge_susan_lewis.gif - 200 3969 355 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:54 99.13.117.60 - 208.123.213.128 80 GET /images/enlarge_amber_symington2.gif - 200 3755 360 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:55 99.13.117.60 - 208.123.213.128 80 GET /images/enlarge_benet_gladwin.gif - 200 3711 357 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:55 99.13.117.60 - 208.123.213.128 80 GET /images/dwslogo_88x33.gif - 200 2177 349 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:55 99.13.117.60 - 208.123.213.128 80 GET /images/template_heading_r2_c1.gif - 200 24902 358 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 18:14:55 99.13.117.60 - 208.123.213.128 80 GET /favicon.ico - 404 4203 336 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_5_8)+AppleWebKit/534.50.2+(KHTML,+like+Gecko)+Version/5.0.6+Safari/533.22.3 - http://www.geraldsmithartstudio.com/
+2012-12-22 19:08:13 124.115.4.194 - 208.123.213.128 80 GET /index.html - 200 8386 251 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - -
+2012-12-22 19:40:33 199.21.99.120 - 208.123.213.128 80 GET /contact.asp - 200 8899 287 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - -
+2012-12-22 20:50:14 123.151.139.214 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2012-12-22 23:12:10 131.253.40.230 - 208.123.213.128 80 GET /robots.txt - 404 4203 225 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2012-12-22 23:12:10 131.253.40.230 - 208.123.213.128 80 GET /images/text_gallery.gif - 200 4358 415 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -

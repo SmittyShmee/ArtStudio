@@ -1,0 +1,467 @@
+x	VE	analog 5.30
+x	HN	www.geraldsmithartstudio.com
+x	PS	2013	01	28	20	38
+x	FR	2012	12	30	00	02
+x	LR	2013	01	28	22	40
+x	E7	2013	01	28	23	59
+x	SR	3897
+x	S7	1105
+x	NC	90
+x	C7	0
+x	PR	1103
+x	P7	251
+x	FL	504
+x	F7	95
+x	RR	1
+x	R7	0
+x	NF	161
+x	N7	147
+x	NH	304
+x	H7	92
+x	BT	57517123
+x	B7	12113370
+m	RP	112	48	2012	12
+m	RP	3785	1055	2013	01
+m	*BT	P	1055	2013	01
+W	RP	558	219	2012	12	30
+W	RP	643	260	2013	01	06
+W	RP	1176	282	2013	01	13
+W	RP	1073	264	2013	01	20
+W	RP	447	78	2013	01	27
+W	*BT	P	282	2013	01	13
+D	RP	79	21	2012	12	30
+D	RP	33	27	2012	12	31
+D	RP	23	14	2013	01	01
+D	RP	233	41	2013	01	02
+D	RP	70	44	2013	01	03
+D	RP	61	31	2013	01	04
+D	RP	59	41	2013	01	05
+D	RP	53	35	2013	01	06
+D	RP	130	25	2013	01	07
+D	RP	41	37	2013	01	08
+D	RP	32	23	2013	01	09
+D	RP	45	34	2013	01	10
+D	RP	153	57	2013	01	11
+D	RP	189	49	2013	01	12
+D	RP	90	34	2013	01	13
+D	RP	211	41	2013	01	14
+D	RP	137	32	2013	01	15
+D	RP	168	49	2013	01	16
+D	RP	179	49	2013	01	17
+D	RP	133	24	2013	01	18
+D	RP	258	53	2013	01	19
+D	RP	257	45	2013	01	20
+D	RP	158	46	2013	01	21
+D	RP	92	26	2013	01	22
+D	RP	104	39	2013	01	23
+D	RP	28	23	2013	01	24
+D	RP	293	39	2013	01	25
+D	RP	141	46	2013	01	26
+D	RP	95	34	2013	01	27
+D	RP	352	44	2013	01	28
+D	*BT	P	57	2013	01	11
+d	RP	574	169	Sun
+d	RP	884	183	Mon
+d	RP	293	109	Tue
+d	RP	537	152	Wed
+d	RP	322	150	Thu
+d	RP	640	151	Fri
+d	RP	647	189	Sat
+H	RP	0	0	2013	01	25	23
+H	RP	11	1	2013	01	26	00
+H	RP	1	1	2013	01	26	01
+H	RP	10	9	2013	01	26	02
+H	RP	84	7	2013	01	26	03
+H	RP	3	2	2013	01	26	04
+H	RP	5	4	2013	01	26	05
+H	RP	1	1	2013	01	26	06
+H	RP	0	0	2013	01	26	07
+H	RP	0	0	2013	01	26	08
+H	RP	0	0	2013	01	26	09
+H	RP	0	0	2013	01	26	10
+H	RP	0	0	2013	01	26	11
+H	RP	4	4	2013	01	26	12
+H	RP	3	2	2013	01	26	13
+H	RP	0	0	2013	01	26	14
+H	RP	10	8	2013	01	26	15
+H	RP	1	1	2013	01	26	16
+H	RP	1	1	2013	01	26	17
+H	RP	0	0	2013	01	26	18
+H	RP	1	1	2013	01	26	19
+H	RP	2	0	2013	01	26	20
+H	RP	0	0	2013	01	26	21
+H	RP	2	2	2013	01	26	22
+H	RP	2	2	2013	01	26	23
+H	RP	1	1	2013	01	27	00
+H	RP	2	2	2013	01	27	01
+H	RP	1	1	2013	01	27	02
+H	RP	1	1	2013	01	27	03
+H	RP	1	1	2013	01	27	04
+H	RP	0	0	2013	01	27	05
+H	RP	0	0	2013	01	27	06
+H	RP	1	1	2013	01	27	07
+H	RP	0	0	2013	01	27	08
+H	RP	5	5	2013	01	27	09
+H	RP	1	1	2013	01	27	10
+H	RP	1	1	2013	01	27	11
+H	RP	5	4	2013	01	27	12
+H	RP	13	2	2013	01	27	13
+H	RP	1	1	2013	01	27	14
+H	RP	3	2	2013	01	27	15
+H	RP	32	1	2013	01	27	16
+H	RP	2	2	2013	01	27	17
+H	RP	0	0	2013	01	27	18
+H	RP	0	0	2013	01	27	19
+H	RP	15	0	2013	01	27	20
+H	RP	1	1	2013	01	27	21
+H	RP	2	2	2013	01	27	22
+H	RP	7	5	2013	01	27	23
+H	RP	6	5	2013	01	28	00
+H	RP	4	3	2013	01	28	01
+H	RP	0	0	2013	01	28	02
+H	RP	2	2	2013	01	28	03
+H	RP	0	0	2013	01	28	04
+H	RP	0	0	2013	01	28	05
+H	RP	0	0	2013	01	28	06
+H	RP	0	0	2013	01	28	07
+H	RP	2	2	2013	01	28	08
+H	RP	1	1	2013	01	28	09
+H	RP	0	0	2013	01	28	10
+H	RP	0	0	2013	01	28	11
+H	RP	0	0	2013	01	28	12
+H	RP	0	0	2013	01	28	13
+H	RP	2	2	2013	01	28	14
+H	RP	1	1	2013	01	28	15
+H	RP	1	1	2013	01	28	16
+H	RP	251	14	2013	01	28	17
+H	RP	36	4	2013	01	28	18
+H	RP	2	1	2013	01	28	19
+H	RP	0	0	2013	01	28	20
+H	RP	0	0	2013	01	28	21
+H	RP	44	8	2013	01	28	22
+H	*BT	P	14	2013	01	05	05
+h	RP	264	50	00
+h	RP	144	49	01
+h	RP	156	69	02
+h	RP	382	71	03
+h	RP	89	40	04
+h	RP	71	52	05
+h	RP	75	54	06
+h	RP	44	35	07
+h	RP	37	29	08
+h	RP	47	39	09
+h	RP	48	39	10
+h	RP	50	33	11
+h	RP	70	51	12
+h	RP	55	36	13
+h	RP	184	42	14
+h	RP	45	37	15
+h	RP	90	39	16
+h	RP	405	55	17
+h	RP	738	69	18
+h	RP	144	51	19
+h	RP	164	34	20
+h	RP	81	29	21
+h	RP	148	48	22
+h	RP	366	52	23
+o	*f	0B	b
+o	lRb	1	2272	60.838	[unresolved numerical addresses]
+o	lRb	1	413	15.362	.ca (Canada)
+o	lRb	1	719	13.428	.com (Commercial)
+o	lRb	1	322	7.975	.net (Networks)
+o	lRb	1	86	0.981	.ru (Russia)
+o	lRb	1	42	0.756	.de (Germany)
+o	lRb	1	16	0.244	.fr (France)
+o	lRb	1	10	0.160	[unknown domain]
+o	lRb	1	8	0.131	.se (Sweden)
+o	lRb	1	4	0.059	.lt (Lithuania)
+o	lRb	1	3	0.037	.cz (Czech Republic)
+o	lRb	1	1	0.015	.it (Italy)
+o	lRb	1	1	0.015	.sc (Seychelles)
+Z	*f	-20R	r
+Z	lRb	1	428	16.719	99
+Z	lRb	1	371	4.636	72
+Z	lRb	1	246	5.185	205.193
+Z	lRb	1	178	3.730	googlebot.com
+Z	lRb	1	155	5.383	cgocable.net
+Z	lRb	1	150	5.547	dsl.bell.ca
+Z	lRb	1	143	5.214	vianet.ca
+Z	lRb	1	120	4.385	69
+Z	lRb	1	116	1.158	msn.com
+Z	lRb	1	108	3.342	rogers.com
+Z	lRb	1	103	3.182	132.156
+Z	lRb	1	100	4.144	66.102
+Z	lRb	1	96	3.037	70
+Z	lRb	1	85	1.387	ahrefs.com
+Z	lRb	1	84	0.952	yandex.ru
+Z	lRb	1	81	1.301	choopa.net
+Z	lRb	1	80	2.845	cnsc-ccsn.gc.ca
+Z	lRb	1	67	0.966	123
+Z	lRb	1	63	1.643	96
+Z	lRb	1	61	2.501	67.225
+Z	lRb	1	1062	22.743	[not listed: 91]
+S	*f	-50R	a
+S	Rb	45	1.563	24.235.105.165
+S	Rb	100	4.144	66.102.89.26
+S	Rb	61	2.501	67.225.50.104
+S	Rb	109	4.225	69.166.119.54
+S	Rb	45	1.563	70.53.25.134
+S	Rb	51	1.473	70.64.34.9
+S	Rb	365	4.532	72.141.219.159
+S	Rb	45	1.563	74.198.165.23
+S	Rb	63	1.643	96.50.236.184
+S	Rb	145	5.750	99.224.144.170
+S	Rb	45	1.563	99.232.60.155
+S	Rb	40	1.738	99.246.31.15
+S	Rb	139	5.200	99.253.154.103
+S	Rb	59	2.469	99.254.14.109
+S	Rb	13	0.184	108.181.167.107
+S	Rb	18	0.262	123.151.148.196
+S	Rb	21	0.306	123.151.148.202
+S	Rb	20	0.281	123.151.148.206
+S	Rb	91	3.013	132.156.139.237
+S	Rb	57	1.698	154.20.223.240
+S	Rb	46	1.578	173.34.3.214
+S	Rb	16	0.257	173.199.114.243
+S	Rb	28	1.586	184.144.131.146
+S	Rb	246	5.185	205.193.82.252
+S	Rb	32	1.608	206.47.112.50
+S	Rb	18	0.008	218.30.103.141
+S	Rb	105	3.741	bas1-ottawa09-1176117511.dsl.bell.ca
+S	Rb	33	1.637	bas4-ottawa10-1279676203.dsl.bell.ca
+S	Rb	80	2.845	alpha.cnsc-ccsn.gc.ca
+S	Rb	28	1.586	71-17-164-75.sktn.hsdb.sasknet.sk.ca
+S	Rb	143	5.214	dsl-66-185-216-207.vianet.ca
+S	Rb	17	0.275	173.199.116.19.ahrefs.com
+S	Rb	19	0.308	173.199.114.83.ahrefs.com
+S	Rb	29	0.437	crawl-66-249-73-34.googlebot.com
+S	Rb	149	3.293	crawl-66-249-73-45.googlebot.com
+S	Rb	32	0.367	msnbot-157-55-32-185.search.msn.com
+S	Rb	16	0.192	msnbot-157-55-32-80.search.msn.com
+S	Rb	12	0.169	cpe1859339814bb-cm1859339814b8.cpe.net.cable.rogers.com
+S	Rb	16	0.327	cpe586d8f372115-cm0011ae92b602.cpe.net.cable.rogers.com
+S	Rb	80	2.845	cpebcc81010708c-cmbcc810107089.cpe.net.cable.rogers.com
+S	Rb	51	1.473	b0fb1275.bb.sky.com
+S	Rb	26	0.374	spider-199-21-99-120.yandex.com
+S	Rb	16	0.244	88-190-44-26.rev.dedibox.fr
+S	Rb	143	5.214	d72-39-245-159.home1.cgocable.net
+S	Rb	18	0.290	173.199.115.131.choopa.net
+S	Rb	16	0.258	173.199.114.139.choopa.net
+S	Rb	15	0.238	173.199.119.59.choopa.net
+S	Rb	17	0.274	173.199.120.59.choopa.net
+S	Rb	24	0.077	imparser02.yandex.ru
+S	Rb	52	0.758	sticker00.yandex.ru
+S	Rb	842	11.672	[not listed: 254]
+K	*f	-30R	r
+K	lR	1	6	http://www.geraldsmithartstudio.com/
+K	lR	1	4	http://www.geraldsmithartstudio.com/robots.txt
+K	lR	1	3	http://www.geraldsmithartstudio.com/about_the_artist.html
+K	lR	1	3	http://www.geraldsmithartstudio.com/diskusage.asp
+K	lR	1	2	http://geraldsmithartstudio.com/
+K	lR	1	2	http://www.finddotcom.com/
+K	lR	1	2	http://www.geraldsmithartstudio.com/wp-login.php
+K	lR	1	1	http://geraldsmithartstudio.com/wp-login.php
+K	lR	1	1	http://geraldsmithartstudio.com/phpmyadmin/scripts/setup.php
+f	*f	20R	r
+f	lR	1	55	[not listed: 19]
+N	*f	-30R	r
+N	R	2	gerald smith
+N	R	2	gerald art canada
+N	R	1	gerald steadman smith
+N	R	1	gerald smith canadian artist
+N	R	1	art studio ottawa
+N	R	1	artful spaces gerard smith
+N	R	1	saskatoon art studio fire
+N	R	1	geraldsmithartstudio.com
+N	R	1	gerald smith artist
+N	R	1	gerald smith canada artist
+n	*f	-30R	r
+n	R	8	gerald
+n	R	7	smith
+n	R	4	art
+n	R	3	artist
+n	R	3	canada
+n	R	2	studio
+n	R	1	spaces
+n	R	1	canadian
+n	R	1	ottawa
+n	R	1	steadman
+n	R	1	fire
+n	R	1	geraldsmithartstudio.com
+n	R	1	saskatoon
+n	R	1	gerard
+n	R	1	artful
+b	*f	-20P	p
+b	lNRP	1	1	722	566	Netscape (compatible)
+b	lNRP	1	2	1557	229	Mozilla
+b	lNRP	2		135	95	Mozilla/1
+b	lNRP	2		287	20	Mozilla/18
+b	lNRP	2		16	16	Mozilla/16
+b	lNRP	2		21	12	Mozilla/6
+b	lNRP	2		147	11	Mozilla/17
+b	lNRP	2		2	2	Mozilla/2
+b	lNRP	2		12	1	Mozilla/10
+b	lNRP	2		1	1	Mozilla/9
+b	lNRP	2		1	1	Mozilla/5
+b	lNRP	1	3	1345	113	MSIE
+b	lNRP	2		543	61	MSIE/7
+b	lNRP	2		329	28	MSIE/9
+b	lNRP	2		349	15	MSIE/8
+b	lNRP	2		121	6	MSIE/10
+b	lNRP	2		3	3	MSIE/6
+b	lNRP	1	4	65	64	Sosospider ( http:
+b	lNRP	2		65	64	Sosospider ( http://help
+b	lNRP	1	5	48	45	SAMSUNG-SGH-E250
+b	lNRP	2		48	45	SAMSUNG-SGH-E250/1
+b	lNRP	1	6	20	19	DoCoMo
+b	lNRP	2		20	19	DoCoMo/2
+b	lNRP	1	7	18	18	Sogou web spider
+b	lNRP	2		18	18	Sogou web spider/4
+b	lNRP	1	8	9	8	Wotbox
+b	lNRP	2		9	8	Wotbox/2
+b	lNRP	1	9	9	8	BacklinkCrawler (http:
+b	lNRP	2		9	8	BacklinkCrawler (http://www
+b	lNRP	1	10	8	7	Influencebot
+b	lNRP	2		8	7	Influencebot/0
+b	lNRP	1	11	4	4	Python-urllib
+b	lNRP	2		4	4	Python-urllib/2
+b	lNRP	1	12	5	3	findlinks
+b	lNRP	2		5	3	findlinks/2
+b	lNRP	1	13	4	3	Lynx
+b	lNRP	2		4	3	Lynx/2
+b	lNRP	1	14	3	3	SeznamBot
+b	lNRP	2		3	3	SeznamBot/3
+b	lNRP	1	15	4	3	Aboundex
+b	lNRP	2		4	3	Aboundex/0
+b	lNRP	1	16	2	2	Opera
+b	lNRP	2		2	2	Opera/9
+b	lNRP	1	17	1	1	facebookexternalhit
+b	lNRP	2		1	1	facebookexternalhit/1
+b	lNRP	1	18	1	1	LWNutch
+b	lNRP	2		1	1	LWNutch/Nutch-1
+b	lNRP	1	19	1	1	BlackBerry9000
+b	lNRP	2		1	1	BlackBerry9000/4
+b	lNRP	1	20	1	1	Mozila
+b	lNRP	2		1	1	Mozila/5
+b	lNRP	1		66	0	[not listed: 5]
+p	*f	0P	p
+p	lNRP	1	1	449	380	Known robots
+p	lNRP	1	2	541	375	OS unknown
+p	lNRP	1	3	1727	176	Windows
+p	lNRP	2		853	116	Unknown Windows
+p	lNRP	2		872	58	Windows XP
+p	lNRP	2		1	1	Windows 98
+p	lNRP	2		1	1	Windows ME
+p	lNRP	1	4	1055	142	Macintosh
+p	lNRP	1	5	121	26	Unix
+p	lNRP	2		121	26	Linux
+c	*f	0R	a
+c	R	3408	200 OK
+c	R	1	302 Document found elsewhere
+c	R	489	304 Not modified since last retrieval
+c	R	6	401 Authentication required
+c	R	494	404 Document not found
+c	R	4	500 Internal server error
+z	Rb	0	0.000	          0
+z	Rb	0	0.000	   1B-  10B
+z	Rb	0	0.000	  11B- 100B
+z	Rb	633	0.237	 101B-  1kB
+z	Rb	2072	18.683	  1kB- 10kB
+z	Rb	1192	81.080	 10kB-100kB
+t	*f	0.100000%B	b
+t	lRb	1	991	71.254	.jpg  [JPEG graphics]
+t	lRb	1	1608	11.307	.gif  [GIF graphics]
+t	lRb	1	620	8.061	[directories]
+t	lRb	1	482	7.350	.html [Hypertext Markup Language]
+t	lRb	1	114	1.763	.asp  [Active Server Pages]
+t	lRb	1	78	0.246	.css  [Cascading Style Sheets]
+t	lRb	1	4	0.018	[not listed: 3]
+i	*f	0.010000%B	b
+i	lRb	1	2598	82.557	/images/
+i	lRb	1	1290	17.381	[root directory]
+i	lRb	1	9	0.062	/log/
+I	*f	-30R	r
+I	lR	1	395	/robots.txt
+I	lR	1	73	/favicon.ico
+I	lR	1	6	/log/report
+I	lR	1	5	/wp-login.php
+I	lR	1	4	/diskusage.asp
+I	lR	1	3	/administrator/index.php
+I	lR	1	2	/admin.php
+I	lR	1	2	/sitemap.xml
+I	lR	1	1	/administrator/components/com_jce/jce.xml
+I	lR	1	1	/wiki2/tiki-index.php
+I	lR	1	1	/library/tiki-index.php
+I	lR	1	1	/wiki1/tiki-index.php
+I	lR	1	1	/index.php
+I	lR	1	1	/w/tiki-index.php
+I	lR	1	1	/wikipedia/tiki-index.php
+I	lR	1	1	/tikiwiki/tiki-index.php
+I	lR	1	1	/tiki-index.php
+I	lR	1	1	/t/tiki-index.php
+I	lR	1	1	/wiki/tiki-index.php
+I	lR	1	1	/eval
+I	lR	1	1	/phpmyadmin/scripts/setup.php
+I	lR	1	1	/tiki/tiki-index.php
+r	*f	20R	r
+r	lRbD	1	620	8.061	2013	01	28	22	39	/
+r	lRbD	1	124	2.505	2013	01	28	22	40	/about_the_artist.html
+r	lRbD	1	114	1.763	2013	01	28	22	06	/contact.asp
+r	lRbD	1	86	0.740	2013	01	28	22	40	/gallery.html
+r	lRbD	1	78	0.246	2013	01	28	22	38	/gsas_styles.css
+r	lRbD	1	70	1.170	2013	01	28	17	33	/gallery-seascapes.html
+r	lRbD	1	65	0.356	2013	01	28	22	38	/images/enlarge_amber_symington2.gif
+r	lRbD	1	64	0.032	2013	01	28	22	38	/images/bullet_off.gif
+r	lRbD	1	64	1.097	2013	01	28	17	32	/gallery-large_paintings_of_heads.html
+r	lRbD	1	64	2.040	2013	01	28	22	38	/images/template_heading_r2_c1.gif
+r	lRbD	1	64	3.071	2013	01	28	22	38	/images/template_heading_r1_c1.gif
+r	lRbD	1	63	0.351	2013	01	28	22	38	/images/enlarge_benet_gladwin.gif
+r	lRbD	1	63	0.182	2013	01	28	22	38	/images/dwslogo_88x33.gif
+r	lRbD	1	62	0.031	2013	01	28	22	38	/images/bullet_on.gif
+r	lRbD	1	59	0.361	2013	01	28	22	38	/images/enlarge_susan_lewis.gif
+r	lRbD	1	54	0.495	2013	01	28	22	38	/images/text_artists_statement.gif
+r	lRbD	1	54	0.437	2013	01	28	22	38	/images/text_latest_works.gif
+r	lRbD	1	54	0.877	2013	01	28	17	10	/gallery-people_in_art_galleries.html
+r	lRbD	1	52	0.839	2013	01	27	17	26	/gallery-abstracts.html
+r	lRbD	1	37	0.214	2013	01	28	22	40	/images/text_gallery.gif
+r	lRbD	1	32	2.068	2013	01	28	22	40	/images/lg_hawk_point_beach.jpg
+r	lRbD	1	32	2.227	2013	01	28	22	40	/images/lg_swimms_point_wharf.jpg
+r	lRbD	1	32	0.015	2013	01	28	22	40	/images/spacer.gif
+r	lRbD	1	32	2.505	2013	01	28	22	40	/images/lg_passing_seal_island_light.jpg
+r	lRbD	1	32	2.012	2013	01	28	22	40	/images/lg_western_head_light.jpg
+r	lRbD	1	32	2.603	2013	01	28	22	40	/images/lg_strong_westerly_gale.jpg
+r	lRbD	1	32	2.449	2013	01	28	22	40	/images/lg_clarks_harbour_wharf.jpg
+r	lRbD	1	31	1.874	2013	01	28	22	40	/images/lg_martine_chartrand.jpg
+r	lRbD	1	31	0.120	2013	01	28	17	32	/images/lg_please_mouse_over.gif
+r	lRbD	1	31	2.365	2013	01	28	22	40	/images/lg_yves_larocque.jpg
+r	lRbD	1	24	1.982	2013	01	28	22	40	/images/lg_the_circle_game.jpg
+r	lRbD	1	23	0.078	2013	01	28	17	33	/images/frame_breaking_wave.gif
+r	lRbD	1	23	1.190	2013	01	28	22	40	/images/lg_jack_and_jill.jpg
+r	lRbD	1	23	2.127	2013	01	28	22	40	/images/lg_the_language_of_art.jpg
+r	lRbD	1	23	1.824	2013	01	28	22	40	/images/lg_the_red_wall.jpg
+r	lRbD	1	23	1.832	2013	01	28	22	40	/images/lg_a_touch_of_class.jpg
+r	lRbD	1	23	0.080	2013	01	28	17	33	/images/frame_half_moon_light.gif
+r	lRbD	1	23	0.087	2013	01	28	17	33	/images/frame_strong_westerly_gale.gif
+r	lRbD	1	23	1.844	2013	01	28	22	40	/images/lg_on_target.jpg
+r	lRbD	1	22	1.810	2013	01	28	17	33	/images/lg_half_moon_light.jpg
+r	lRbD	1	22	0.080	2013	01	28	17	33	/images/frame_drs_channel_buoy.gif
+r	lRbD	1	22	0.083	2013	01	28	17	33	/images/frame_clarks_harbour_wharf.gif
+r	lRbD	1	22	0.082	2013	01	28	17	33	/images/frame_hawk_point_beach.gif
+r	lRbD	1	22	2.186	2013	01	28	17	33	/images/lg_coming_in.jpg
+r	lRbD	1	22	0.084	2013	01	28	17	33	/images/frame_swimms_point_wharf.gif
+r	lRbD	1	22	0.077	2013	01	28	17	33	/images/frame_passing_seal_island_light.gif
+r	lRbD	1	22	1.805	2013	01	28	17	33	/images/lg_head_harbour_light.jpg
+r	lRbD	1	22	0.080	2013	01	28	17	33	/images/frame_western_head_light.gif
+r	lRbD	1	22	0.080	2013	01	28	17	33	/images/frame_coming_in.gif
+r	lRbD	1	22	1.710	2013	01	28	17	33	/images/lg_westerly_gale_on_the_ebb_tide.jpg
+r	lRbD	1	22	1.652	2013	01	28	17	33	/images/lg_the_cold_atlantic.jpg
+r	lRbD	1	22	1.292	2013	01	28	22	40	/images/lg_floating_circle2.jpg
+r	lRbD	1	22	1.290	2013	01	28	22	40	/images/lg_floating_circle4.jpg
+r	lRbD	1	22	0.076	2013	01	28	17	33	/images/frame_head_harbour_light.gif
+r	lRbD	1	22	0.085	2013	01	28	17	33	/images/frame_westerly_gale_on_the_ebb_tide.gif
+r	lRbD	1	22	0.075	2013	01	28	17	33	/images/frame_the_cold_atlantic.gif
+r	lRbD	1	22	1.645	2013	01	28	17	33	/images/lg_view_of_the_atlantic.jpg
+r	lRbD	1	22	0.081	2013	01	28	17	33	/images/frame_view_of_the_atlantic.gif
+r	lRbD	1	22	1.662	2013	01	28	17	33	/images/lg_breaking_wave.jpg
+r	lRbD	1	22	2.023	2013	01	28	17	33	/images/lg_drs_channel_buoy.jpg
+r	lRbD	1	999	27.892	2013	01	28	22	40	[not listed: 99]

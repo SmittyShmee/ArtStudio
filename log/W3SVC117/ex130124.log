@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2013-01-24 01:02:50
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem cs-uri-query sc-status sc-bytes cs-bytes cs(User-Agent) cs(Cookie) cs(Referer) 
+2013-01-24 01:02:50 173.199.116.171 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 200 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 01:36:00 123.151.148.206 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2013-01-24 02:20:42 173.199.116.171 - 208.123.213.128 80 GET /gallery-abstracts.html - 200 9452 201 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 03:13:02 67.228.9.189 - 208.123.213.128 80 GET /favicon.ico - 404 4203 152 Mozilla/5.0+(compatible;+PiplBot;++http://www.pipl.com/bot/) - -
+2013-01-24 03:44:23 173.199.116.171 - 208.123.213.128 80 GET /gallery-large_paintings_of_heads.html - 200 10507 216 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 03:48:25 173.199.116.171 - 208.123.213.128 80 GET /index.html - 200 8324 189 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 08:48:50 123.125.71.56 - 208.123.213.128 80 GET /robots.txt - 404 4203 196 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - -
+2013-01-24 10:23:29 123.151.148.206 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2013-01-24 11:34:16 173.199.116.171 - 208.123.213.128 80 GET /gallery-large_paintings_of_heads.html - 200 10507 212 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 11:40:06 173.199.116.171 - 208.123.213.128 80 GET /contact.asp - 200 8899 186 Mozilla/5.0+(compatible;+AhrefsBot/4.0;++http://ahrefs.com/robot/) - -
+2013-01-24 13:18:21 220.181.108.84 - 208.123.213.128 80 GET /index.html - 304 245 320 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - -
+2013-01-24 14:12:55 88.214.193.210 - 208.123.213.128 80 GET /index.html - 200 8386 481 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.10)+Gecko/20050716+Firefox/1.0.6 - -
+2013-01-24 14:13:12 88.214.193.210 - 208.123.213.128 80 GET /about_the_artist.html - 200 12625 502 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.10)+Gecko/20050716+Firefox/1.0.6 - -
+2013-01-24 14:13:17 88.214.193.210 - 208.123.213.128 80 GET /gallery.html - 200 5306 493 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.10)+Gecko/20050716+Firefox/1.0.6 - -
+2013-01-24 14:13:32 88.214.193.210 - 208.123.213.128 80 GET /contact.asp - 200 8795 492 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.10)+Gecko/20050716+Firefox/1.0.6 - -
+2013-01-24 14:13:33 88.214.193.210 - 208.123.213.128 80 GET /index.html - 200 8386 481 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.10)+Gecko/20050716+Firefox/1.0.6 - -
+2013-01-24 15:59:57 208.115.111.68 - 208.123.213.128 80 GET /robots.txt - 404 4203 203 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - -
+2013-01-24 16:13:04 66.249.73.45 - 208.123.213.128 80 GET /robots.txt - 404 4203 278 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - -
+2013-01-24 16:13:04 66.249.73.45 - 208.123.213.128 80 GET /index.html - 200 8390 242 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - -
+2013-01-24 16:23:55 66.249.73.45 - 208.123.213.128 80 GET /gsas_styles.css - 200 2148 257 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - -
+2013-01-24 16:35:15 124.115.6.14 - 208.123.213.128 80 GET /robots.txt - 404 4203 261 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - -
+2013-01-24 17:36:34 208.115.111.68 - 208.123.213.128 80 GET /gallery-abstracts.html - 200 9452 215 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - -
+2013-01-24 17:52:15 180.76.5.160 - 208.123.213.128 80 GET /robots.txt - 404 4203 200 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - -
+2013-01-24 18:03:04 123.151.148.206 - 208.123.213.128 80 GET /index.html - 200 8386 201 Sosospider+(+http://help.soso.com/webspider.htm) - -
+2013-01-24 18:03:59 208.115.113.84 - 208.123.213.128 80 GET /robots.txt - 404 4203 203 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - -
+2013-01-24 18:04:43 66.249.73.45 - 208.123.213.128 80 GET /index.html - 200 8390 295 DoCoMo/2.0+N905i(c100;TB;W24H16)+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - -
+2013-01-24 19:25:43 208.115.113.84 - 208.123.213.128 80 GET /gallery-people_in_art_galleries.html - 200 9696 229 Mozilla/5.0+(compatible;+Ezooms/1.0;+ezooms.bot@gmail.com) - -
+2013-01-24 19:41:29 5.9.105.15 - 208.123.213.128 80 GET /index.html - 200 8386 300 Mozilla/5.0+(Windows+NT+6.1;+de;rv:12.0)+Gecko/20120403211507+Firefox/12.0 - -
+2013-01-24 20:09:15 65.55.212.136 - 208.123.213.128 80 GET /robots.txt - 404 4203 221 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2013-01-24 20:09:15 65.55.212.136 - 208.123.213.128 80 GET /images/enlarge_benet_gladwin.gif - 200 3730 420 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2013-01-24 21:08:09 199.217.117.35 - 208.123.213.128 80 GET /robots.txt - 404 4184 206 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - -
+2013-01-24 21:08:20 199.217.117.35 - 208.123.213.128 80 GET /index.html - 200 8386 351 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - -
+2013-01-24 21:08:25 199.217.117.35 - 208.123.213.128 80 GET /robots.txt - 404 4184 210 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - -
+2013-01-24 21:08:48 199.217.117.35 - 208.123.213.128 80 GET /index.html - 200 8390 355 Mozilla/5.0+(compatible;+MJ12bot/v1.4.3;+http://www.majestic12.co.uk/bot.php?+) - -
+2013-01-24 22:43:50 1.202.219.5 - 208.123.213.128 80 HEAD /index.html - 200 331 157 Mozilla/5.0+(compatible;+JikeSpider;++http://shoulu.jike.com/spider.html) - -
+2013-01-24 22:43:50 1.202.219.5 - 208.123.213.128 80 GET /index.html - 200 8405 299 Mozilla/5.0+(compatible;+JikeSpider;++http://shoulu.jike.com/spider.html) - -
+2013-01-24 23:11:01 199.30.16.37 - 208.123.213.128 80 GET /robots.txt - 404 4203 221 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2013-01-24 23:11:01 199.30.16.37 - 208.123.213.128 80 GET /images/enlarge_amber_symington2.gif - 200 3774 423 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - -
+2013-01-24 23:59:39 180.76.6.35 - 208.123.213.128 80 GET /index.html - 304 249 318 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - -
